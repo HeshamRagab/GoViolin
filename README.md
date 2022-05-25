@@ -11,3 +11,4 @@ Contains:
 * Harmonic and Melodic Minor scales
 * Arpeggios
 * A set of two part scale duet melodies by Franz Wohlfahrt
+* edited to test the pipeline
